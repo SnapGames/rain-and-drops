@@ -33,18 +33,6 @@ public class RainAndDropsApp {
 				rPanel.stop();
 				System.exit(0);
 			}
-			@Override
-			public void windowLostFocus(WindowEvent e) {
-				// TODO Auto-generated method stub
-				super.windowLostFocus(e);
-				rPanel.stop();
-			}
-			@Override
-			public void windowGainedFocus(WindowEvent e) {
-				// TODO Auto-generated method stub
-				super.windowGainedFocus(e);
-				rPanel.start();
-			}
 		});
 	}
 }

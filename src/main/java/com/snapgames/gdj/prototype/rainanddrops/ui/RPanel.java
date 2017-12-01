@@ -27,7 +27,7 @@ public class RPanel extends JPanel {
 	public float mRainWidth = 1;
 	public double mDdropInitialVelocity = 16;
 	public double mDropDiam = 2;
-	public Color mColor = new Color(129, 129, 129);
+	public Color mColor = new Color(210,210,210);
 	// *********************************************
 
 	private ArrayList<Rain> rainV;
@@ -44,6 +44,11 @@ public class RPanel extends JPanel {
 
 	public void stop() {
 		mUpdateThread.stopped = true;
+	}
+
+	public void start() {
+		mUpdateThread.stopped = false;
+		mUpdateThread.start();
 	}
 
 	public int getHeight() {

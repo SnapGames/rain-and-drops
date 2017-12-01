@@ -43,7 +43,7 @@
 	</ciManagement>
 
 	<properties>
-		<mainClass>com.snapgames.gdj.core.Game</mainClass>
+		<mainClass>com.snapgames.gdj.prototype.rainanddrops.RainAndDropsApp</mainClass>
 	</properties>
 
 	<!-- Project Dependencies -->

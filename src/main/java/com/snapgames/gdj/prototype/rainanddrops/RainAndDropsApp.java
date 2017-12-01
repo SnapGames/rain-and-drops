@@ -8,8 +8,17 @@ import javax.swing.JFrame;
 
 import com.snapgames.gdj.prototype.rainanddrops.ui.RPanel;
 
+/**
+ * The main Class to start the RainAndDrops prototype.
+ * 
+ * @author Frédéric Delorme
+ *
+ */
 public class RainAndDropsApp {
 
+	/*
+	 * THe main method.
+	 */
 	public static void main(String[] args) {
 		JFrame frame = new JFrame();
 		frame.setSize(800, 600);
@@ -23,6 +32,18 @@ public class RainAndDropsApp {
 				super.windowClosing(e);
 				rPanel.stop();
 				System.exit(0);
+			}
+			@Override
+			public void windowLostFocus(WindowEvent e) {
+				// TODO Auto-generated method stub
+				super.windowLostFocus(e);
+				rPanel.stop();
+			}
+			@Override
+			public void windowGainedFocus(WindowEvent e) {
+				// TODO Auto-generated method stub
+				super.windowGainedFocus(e);
+				rPanel.start();
 			}
 		});
 	}

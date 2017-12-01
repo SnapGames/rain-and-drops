@@ -42,7 +42,7 @@ Import this project as an Existing Maven Project into your prefered IDE,
 
 ## Some screen shots ?
 
-TODO
+![src\main\resources\res\images\rain-and-drops-screenshot.png](src\main\resources\res\images\rain-and-drops-screenshot.png "the Rain and drops screenshot")
  
 Have Fun !
 

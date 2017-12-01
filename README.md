@@ -1,4 +1,4 @@
-# rain-and-drops
+# Rain and Drops
 
 [![TravisCI](https://travis-ci.org/SnapGames/rain-and-drops.svg?branch=develop)](https://travis-ci.org/SnapGames/rain-and-drops "open the TravisCI compilation trend") [![Dependency Status](https://www.versioneye.com/user/projects/5a21685f0fb24f0ab8e9e591/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5a21685f0fb24f0ab8e9e591 "Open on VersionEye")
 
@@ -42,7 +42,7 @@ Import this project as an Existing Maven Project into your prefered IDE,
 
 ## Some screen shots ?
 
-![src\main\resources\res\images\rain-and-drops-screenshot.png](src\main\resources\res\images\rain-and-drops-screenshot.png "the Rain and drops screenshot")
+![The Rain and Drops screenshot](src\main\resources\res\images\rain-and-drops-screenshot.png "The Rain and Drops screenshot")
  
 Have Fun !
 

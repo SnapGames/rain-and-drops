@@ -42,7 +42,7 @@ Import this project as an Existing Maven Project into your prefered IDE,
 
 ## Some screen shots ?
 
-![The Rain and Drops screenshot](src\main\resources\res\images\rain-and-drops-screenshot.png "The Rain and Drops screenshot")
+![The Rain and Drops screenshot](src/main/resources/res/images/rain-and-drops-screenshot.png "The Rain and Drops screenshot")
  
 Have Fun !
 

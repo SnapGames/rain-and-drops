@@ -1,6 +1,6 @@
 # rain-and-drops
 
-[![TravisCI](https://travis-ci.org/SnapGames/rain-and-drops.svg?branch=develop)](https://travis-ci.org/SnapGames/rain-and-drops "open the TravisCI compilation trend") [![Dependency Status](https://www.versioneye.com/user/projects/59d22ffc0fb24f00420314b1/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/59d22ffc0fb24f00420314b1 "Open on VersionEye")
+[![TravisCI](https://travis-ci.org/SnapGames/rain-and-drops.svg?branch=develop)](https://travis-ci.org/SnapGames/rain-and-drops "open the TravisCI compilation trend") [![Dependency Status](https://www.versioneye.com/user/projects/5a21685f0fb24f0ab8e9e591/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5a21685f0fb24f0ab8e9e591 "Open on VersionEye")
 
 ## Game Development Java Basics prototypes/rain-and-drops
 

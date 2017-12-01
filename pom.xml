@@ -266,5 +266,6 @@
 
 		</plugins>
 	</build>
-	<description>A small prototype to simulate rain and drops into a game.</description>
+	<description>A small prototype to simulate rain and drops into a game.
+largely inpired by https://stackoverflow.com/questions/11295986/simulating-rain</description>
 </project>
